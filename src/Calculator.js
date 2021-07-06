@@ -67,6 +67,10 @@ class RomanCalculator {
             return true;
         return false;    
     }
+
+    isDummyFunction(character){
+   
+    }
 }
 
 export { RomanCalculator }
